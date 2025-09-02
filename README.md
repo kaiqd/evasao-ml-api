@@ -7,7 +7,7 @@ API em **Python (FastAPI)** responsável por expor o modelo de Machine Learning 
 ## 📌 Objetivo
 
 Este projeto disponibiliza, via **REST API**, um modelo de **XGBoost** previamente treinado.  
-O objetivo é permitir que aplicativos clientes (como o [evasao-ios-app](https://github.com/skaiqd/evasao-ios-app)) enviem dados de alunos e recebam de volta a **probabilidade de evasão**.
+O objetivo é permitir que aplicativos clientes (como o [evasao-ios-app](https://github.com/kaiqd/evasao-ios-app)) enviem dados de alunos e recebam de volta a **probabilidade de evasão**.
 
 ---
 
@@ -20,7 +20,7 @@ O objetivo é permitir que aplicativos clientes (como o [evasao-ios-app](https:/
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/evasao-ml-api.git
+git clone https://github.com/kaiqd/evasao-ml-api.git
 cd evasao-ml-api
 ```
 
